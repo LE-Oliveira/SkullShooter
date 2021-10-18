@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images"/>
+    <qresource prefix="/">
+        <file>images/boss.png</file>
+        <file>images/bosslaser.png</file>
+        <file>images/enemy.png</file>
+        <file>images/player.png</file>
+        <file>images/skullShooter.ico</file>
+        <file>images/eBullet.png</file>
+        <file>images/pBullet.png</file>
+        <file>images/go.png</file>
+        <file>images/spaceground.png</file>
+        <file>images/win.png</file>
+    </qresource>
+</RCC>

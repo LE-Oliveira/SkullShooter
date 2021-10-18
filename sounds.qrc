@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>sfx/bossMusic.mp3</file>
+        <file>sfx/Explosion.mp3</file>
+        <file>sfx/Explosion2.mp3</file>
+        <file>sfx/Laser.mp3</file>
+        <file>sfx/Soundtrack.mp3</file>
+        <file>sfx/deadUR.mp3</file>
+        <file>sfx/win.mp3</file>
+    </qresource>
+</RCC>
